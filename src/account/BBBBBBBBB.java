@@ -6,6 +6,8 @@ public class BBBBBBBBB {
 		// TODO Auto-generated method stub
 		System.out.println("기면수");
 		System.out.println("기태 누군데?");
+		System.out.println("정민이 집에 가");
+		
 	}
 
 }
